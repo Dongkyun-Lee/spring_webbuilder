@@ -10,7 +10,7 @@
 <title>Home</title>
 </head>
 <body>
-	<h1>메인화면</h1>
+	<h1>메인화면1</h1>
 	<div id="nav"><%@ include file="/WEB-INF/views/company/companynavbar/companynav.jsp" %></div>
 </body>
 </html>
